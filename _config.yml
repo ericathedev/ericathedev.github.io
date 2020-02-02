@@ -35,6 +35,8 @@ plugins:
 
 permalink: /blog/:year/:month/:day/:title/
 
+header_pages: # don't show any
+  - blog/index.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
