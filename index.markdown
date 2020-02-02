@@ -2,6 +2,7 @@
 layout: page
 ---
 
+<h2>About Me</h2>
 Hello Fixme erica with some more interesting text
 
 <h2>Blog</h2>
