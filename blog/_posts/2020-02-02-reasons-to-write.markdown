@@ -2,7 +2,7 @@
 layout: post
 title:  "Reasons to write"
 date:   2020-02-02 16:59:33 +0100
-categories: productivity, career, writing
+tags: productivity career writing
 ---
 _Note: This first blog post is a reminder to myself as to why I have decided to write a blog. I hope it's helpful to other people here also!_
 
