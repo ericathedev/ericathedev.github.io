@@ -3,6 +3,7 @@ layout: post
 title:  "Reasons to Write 📝"
 date:   2020-02-02 16:59:33 +0100
 tags: productivity career writing
+xpost_devto: https://dev.to/ericathedev/reasons-to-write-3mo9
 ---
 _Note: This first blog post is a reminder to myself as to why I have decided to write a blog. I hope it's helpful to other people here also!_
 

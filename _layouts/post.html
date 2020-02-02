@@ -11,3 +11,7 @@ layout: default
 <p>{{ page.date | date_to_long_string }}</p>
 
 {{ content }}
+
+{% if page.xpost_devto %}
+<p><i>X-Posted on dev.to <a href="{{ page.xpost_devto }}">here</a>.</i></p>
+{% endif %}
