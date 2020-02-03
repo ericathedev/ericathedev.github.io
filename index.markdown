@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h2>About Me</h2>
-Hello Fixme erica with some more interesting text
+🚧 👷🏻‍♀️ This part of the site is still under construction - check back later for more info! 👷🏻‍♀️ 🚧
 
 <h2>Blog</h2>
 My blog posts can be found at [this url]({% link blog/index.markdown %}). Here's a list of some topics I write about if you want to learn more.
