@@ -47,7 +47,7 @@ layout: page
       Hi I'm Erica Tanti and I'm a Software Engineer (<em>ahem, Developer?</em>) from Malta!
     </p>
     <p>
-      Welcome to `👩🏻‍💻Erica the Dev`, my little spot on the internet where I'll be sharing by knowledge from my 9 years working in the software   industry.
+      Welcome to <code class="highligher-rouge">👩🏻‍💻Erica the Dev</code>, my little spot on the internet where I'll be sharing by knowledge from my 9 years working in the software   industry.
     </p>
   </div>
 </div>
