@@ -3,6 +3,7 @@ layout: post
 title:  "HTTP Caches - I read RFC 7234 so you won’t have to. Part 1: The Basics"
 date:   2020-02-16 15:20:00 +0100
 tags: webdev caching
+xpost_devto: https://dev.to/ericathedev/http-caches-i-read-rfc-7234-so-you-won-t-have-to-part-1-the-basics-kl6
 excerpt: RFC 7234 is an Internet Standards document for Hypertext Transfer Protocol (HTTP) defined by the Internet Engineering Task Force (IETF). RFC 7234 defines how a cache should be implemented internally. 
 ---
 ## What is an HTTP cache?
