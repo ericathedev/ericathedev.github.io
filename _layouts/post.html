@@ -12,8 +12,16 @@ layout: default
 
 {{ content }}
 
+</br>
+<hr>
+</br>
+
+{% include share-buttons.html %}
+
+</br>
+
 {% if page.xpost_devto %}
-<p><i>X-Posted on <a href="https://dev.to/ericathedev">
+<span>This article was also X-Posted on <a href="https://dev.to/ericathedev">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Erica Tanti's DEV Profile" height="30" width="30">
-</a> <a href="{{ page.xpost_devto }}">here</a>.</i></p>
+</a> <a href="{{ page.xpost_devto }}">here</a>.</span>
 {% endif %}
