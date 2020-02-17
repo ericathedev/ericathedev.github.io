@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Homepage and blog belonging to Erica Tanti (aka ericathedev) -
   a software engineer from Malta.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ericathe.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericathedev
 github_username:  ericathedev
 author: Erica Tanti
@@ -33,6 +33,7 @@ author: Erica Tanti
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 permalink: /blog/:year/:month/:day/:title/
 
