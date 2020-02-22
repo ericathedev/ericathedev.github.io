@@ -2,13 +2,19 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p>[
+
+<p>{{ page.date | date_to_long_string: "ordinal" }}  · {% include reading-time.html %} </p>
+<p>
+  [
   {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% capture tag_name %}{{ tag }}{% endcapture %}
+  <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
   {% endfor %}
-]</p>
-<p>{{ page.date | date_to_long_string }}</p>
+  ]
+</p>
+
+<hr>
+</br>
 
 {{ content }}
 

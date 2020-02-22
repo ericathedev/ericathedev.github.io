@@ -76,7 +76,7 @@ My blog posts can be found at [this url]({% link blog/index.markdown %}). Here's
     {%- for post in site.posts limit:3 -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <span class="post-meta">{{ post.date | date_to_string }}</span>
       <h4>
         <a class="post-link" href="{{ post.url | relative_url }}">
           {{ post.title | escape }}
