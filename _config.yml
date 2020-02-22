@@ -21,8 +21,8 @@
 title: 👩🏻‍💻 Erica the Dev
 email: ericathedev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage and blog belonging to Erica Tanti (aka ericathedev) -
-  a software engineer from Malta.
+  Hi! I'm Erica Tanti (aka 👩🏻‍💻 Erica the Dev) -
+  a Software Engineer from Malta.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ericathe.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ericathedev
