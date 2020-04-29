@@ -4,6 +4,7 @@ title: The 5 Kinds of Laptop Owners - Sticker edition
 date: 2020-03-31 11:29:00 +0100
 tags: jokes
 excerpt: As software engineers, the machines we write code on becomes an extension of our identity. Whilst with desktop machines there are many ways to make your setup unique, with laptops, your options are a little more limited. And that is why many developers turn to stickers to make their machines unique.
+xpost_devto: https://dev.to/ericathedev/the-5-kinds-of-laptop-owners-sticker-edition-bmd
 ---
 _Disclaimer: This post is just for laughs 💕_
 

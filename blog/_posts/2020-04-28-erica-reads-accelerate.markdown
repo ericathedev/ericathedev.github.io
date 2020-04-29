@@ -4,6 +4,7 @@ title: Erica reads "Accelerate"
 date: 2020-04-28 08:45:00 +0200
 tags: book-reviews
 excerpt: Anyone need a book recommendation? 🙋🏻‍♀️ Today I'm going to talk about Accelerate by Nicole Forsgren PhD, Jez Humble, Gene Kim.
+xpost_devto: https://dev.to/ericathedev/erica-reads-accelerate-22k0
 ---
 Anyone need a book recommendation? 🙋🏻‍♀️ Today I'm going to talk about 
 [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://nicolefv.com/book) 
