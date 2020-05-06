@@ -2,7 +2,7 @@
 layout: post
 title:  "Rewrite 🖋 or Refactor 🧹? 10 questions to ask yourself before you decide."
 date:   2020-02-27 20:20:00 +0100
-tags: rewrite refactor
+tags: rewriting refactoring
 excerpt: Your heart says <em>"Rewrite it, this code is beyond hope!"</em>. The internet says <em>"Refactor it, rewriting is evil!"</em>. What should you do? The answer is, as it often is, <em>"it depends"</em>. 
 xpost_devto: https://dev.to/ericathedev/rewrite-or-refactor-10-questions-to-ask-yourself-before-you-decide-2b6m
 ---
